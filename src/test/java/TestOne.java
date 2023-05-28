@@ -13,8 +13,8 @@ public class TestOne {
         System.out.println("test 1");
     }
     @Test(priority = 0)
-    public void test9(){
-        System.out.println("test9");
+    public void test10(){
+        System.out.println("test10");
     }
 
     @Test
